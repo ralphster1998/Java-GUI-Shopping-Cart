@@ -1,0 +1,3 @@
+iPhone11 1500 5 0 iPhone.jpg
+GalaxyS10 1200 5 0 samsung.jpg
+AmazonEcho 100 5 0 amazonEcho.jpg

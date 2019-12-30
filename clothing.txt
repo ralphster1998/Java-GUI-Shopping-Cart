@@ -1,0 +1,3 @@
+LVpants 1500.5 5 0 lvpants.jpg
+RLShoes 99.99 5 0 shoes.jpg
+OldNavyShirt 49.50 5 0 shirt.jpg
